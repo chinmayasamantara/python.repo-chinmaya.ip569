@@ -1,0 +1,12 @@
+M   O   D   U   L    E    S
+
+Module is a code that the devolpers have already written and you think in python how you can use it. 
+so,basically the devolpers made modules and you work is to take the module and details or use it in your python program.Many 
+modules built in and some modules we have to download from pip so let's start how you can download modules with the help of pip
+
+P   I   P
+
+pip is packaging manager of python to download modules 
+open your vs code and type on terminal pip install module name and click on the enter key 
+then he was take a few seconds to download then the module was downloaded 
+see in the README.md to learn how you can use the module and how you can use it in your program
