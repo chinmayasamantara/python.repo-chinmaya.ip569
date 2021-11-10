@@ -4,4 +4,6 @@
 
 ![Screenshot_20211110_111602](https://user-images.githubusercontent.com/82713522/141056988-3424c322-f808-44a0-a2a5-08fc54898da2.png)
 type pip install module name 
-i install a flask module for making website
+i install a flask module for making website you can choose your module name
+
+
